@@ -18,6 +18,11 @@ body {
 
 }
 
+.button:hover{
+    background-color: black;
+    color: white;
+}
+
 .button{
     padding: 20px;
     font-family:inherit;
